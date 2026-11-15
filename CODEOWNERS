@@ -12,3 +12,6 @@ components/* @ecnivtwelve
 utils/* @ecnivtwelve
 
 ui/components/Pattern/* @godetremy
+
+# Papillon Desktop - Windows / Linux
+desktop/* @Simon5012
